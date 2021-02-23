@@ -1,5 +1,5 @@
 # Warzone
-<!DOCTYPE html>
+
 <html>
 <head>
       <title>Call of Duty Modern Warfare</title>
@@ -175,3 +175,119 @@ In Plunder, players spawn with custom loadouts, similar to regular Multiplayer m
 
 
 </html>
+
+
+body{
+	background:lightblue;
+	background-image:url("$.jpg");
+	background-repeat:no-repeat;
+	background-position:bottom
+	
+}
+#ghost{
+	object-fit:cover;
+	height:2100px;
+}
+
+
+
+
+#uvod{
+	color:black;
+	font-family:Arial,Verdana;
+	font-size:18px;
+	border:2px solid black;
+	border-radius:20px;
+	width:1100px;
+	height:300px;
+	padding:10px;
+	margin:10px;
+	
+	
+	
+}
+
+img{
+	float:right;
+	margin:40px;
+	width:400px;
+}
+
+#podela{
+	color:black;
+	font-family:Arial,Verdana;
+	font-size:20px;
+	text-decoration:underline;
+	
+}
+
+#plunder{
+	color:black;
+	font-family:Arial,Verdana;
+	font-size:17px;
+	border:2px solid black;
+	border-radius:20px;
+	width:700px;
+	padding:5px;
+	float:right;
+	margin:10px;
+	position:absolute;
+	top:700px;
+	right:50px;
+	
+}
+#rebirth_island{
+	color:black;
+	font-family:Arial,Verdana;
+	font-size:17px;
+	border:2px solid black;
+	border-radius:20px;
+	width:700px;
+	padding:5px;
+	float:right;
+	margin:10px;
+	position:absolute;
+	top:1250px;
+	right:50px;
+}
+#video{
+	color:black;
+	font-family:Arial,Verdana;
+	font-size:17px;
+	border:2px solid black;
+	border-radius:20px;
+	width:600px;
+	padding:15px;
+	float:right;
+	margin:10px;
+	position:absolute;
+	top:1700px;
+	right:50px;
+}
+
+
+
+
+
+
+.naslovi{
+	color:black;
+	font-family:Arial,Verdana;
+	font-size:20px;
+	text-decoration:underline;
+	
+}
+
+
+.paragrafi{
+	color:black;
+	font-family:Arial,Verdana;
+	font-size:17px;
+	border:2px solid black;
+	border-radius:20px;
+	width:700px;
+	padding:5px;
+	margin:10px;
+	
+	
+}
