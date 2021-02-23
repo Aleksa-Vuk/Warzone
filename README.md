@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-      <title>Call of Duty Modern Warfare</title>
+      
       <meta charset="UTF-8"/>
       <meta name="description" content="Information about Warzone"/>
       <meta name="keywords" content="Call of Duty,Modern Warfare,cod,Warzone,Battle Royale,Plunder,Verdansk,Rebirth Island"/>
