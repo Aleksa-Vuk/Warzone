@@ -9,7 +9,7 @@
       <meta name="author" content="Aleksa Vukovic"/>
       <meta name="viewport" content="Width=device-width, initial-scale=1.0"/>
 <link rel="stylesheet" type="text/css" href="style.css"/>
-	
+<style>	
 	body{
 	background:lightblue;
 	background-image:url("$.jpg");
@@ -124,12 +124,7 @@ img{
 	
 	
 }
-	
-	
-	
-	
-	
-	
+</style>	
 	
 </head>
 
